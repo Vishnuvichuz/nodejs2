@@ -1,0 +1,12 @@
+{
+    "port":3000,
+    "env": "development",
+   "db":{
+        "user":"vichu",
+        "password" :"root",
+        "host":"localhost",
+        "database":"vcart",
+        "port":3306,
+        "logging":true
+    }
+}
